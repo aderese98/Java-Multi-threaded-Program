@@ -1,11 +1,3 @@
-/*Name: Abraham Derese
- * UID: 114725752
- * Directory ID: aderese
- * Section: 0102
- * Honor Pledge:I pledge on my honor that I have not given or received any 
- * unauthorized assistance on this assignment.
- * - Abraham Derese
- */
 package registrar;
 
 // A public class that defines a Course object. A Course contains 3 fields
